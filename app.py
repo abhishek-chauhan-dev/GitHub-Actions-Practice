@@ -1,3 +1,4 @@
+# This file will be validated by the linter tool i.e. ruff.
 from flask import Flask, render_template
 app = Flask(__name__)
 
